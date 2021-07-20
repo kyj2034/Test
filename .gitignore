@@ -1,0 +1,4 @@
+*.cs
+temp/
+!a.cs
+[Aa]ssets
